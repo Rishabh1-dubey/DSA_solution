@@ -1,3 +1,5 @@
+package pattern;
+
 public class Binomial {
 
     // Define the factorial function

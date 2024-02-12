@@ -1,3 +1,5 @@
+package pattern;
+
 public class Priime_Range {
 
 

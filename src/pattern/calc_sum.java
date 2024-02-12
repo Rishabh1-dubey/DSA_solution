@@ -1,3 +1,5 @@
+package pattern;
+
 public class calc_sum {
      public  static  int  sum( int a, int b){
          return a+b;

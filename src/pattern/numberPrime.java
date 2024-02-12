@@ -1,3 +1,5 @@
+package pattern;
+
 public class numberPrime {
 
     public  static boolean isPrime(int n){

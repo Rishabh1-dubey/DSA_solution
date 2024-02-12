@@ -1,3 +1,5 @@
+package pattern;
+
 public class Pattern {
     public static void solid(int n) {
         for (int i = 1; i <= n; i++) {

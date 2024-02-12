@@ -1,3 +1,5 @@
+package pattern;
+
 public class Factorial {
 
     public static  int fact(int n){
